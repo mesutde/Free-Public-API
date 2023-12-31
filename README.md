@@ -23,7 +23,7 @@ JSON | bitbank.cc | https://public.bitbank.cc/tickers | bitbank.cc
   | TYPE | SOURCE | URL | COMMENT | 
 |------------------------------|------------|----------------|----------------|
 JSON | vatcomply.com| https://api.vatcomply.com/geolocate | vatcomply.com
-JSON | ipify.org | https://api.ipify.org/ | #Just IP
+JSON | ipify.org | https://api.ipify.org/ | # Just IP
 HTML | ifconfig.me | https://ifconfig.me/ | ifconfig.me
 JSON | techniknews.net | https://api.techniknews.net/ipgeo/xxx.xx.xxx.xxx | techniknews.net
 JSON | geoplugin.net | http://www.geoplugin.net/json.gp?ip=xxx.xxx.xx.xxx | geoplugin.net
