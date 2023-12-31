@@ -18,7 +18,7 @@ JSON | bitpay.com | https://bitpay.com/rates | bitpay.com
 JSON | bitbank.cc | https://public.bitbank.cc/tickers | bitbank.cc
 
 
-# 2-geolocate API
+# 2-GeoLocate API
 
   | TYPE | SOURCE | URL | COMMENT | 
 |------------------------------|------------|----------------|----------------|
