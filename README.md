@@ -26,6 +26,7 @@ JSON | vatcomply.com| https://api.vatcomply.com/geolocate | vatcomply.com
 JSON | ipify.org | https://api.ipify.org/ |  Just IP
 HTML | ifconfig.me | https://ifconfig.me/ | ifconfig.me
 JSON | techniknews.net | https://api.techniknews.net/ipgeo/xxx.xx.xxx.xxx | techniknews.net
+TEXT | hackertarget.com | https://api.hackertarget.com/ipgeo/?q=xxx.xxx.xx.xxx | hackertarget.com
 JSON | geoplugin.net | http://www.geoplugin.net/json.gp?ip=xxx.xxx.xx.xxx | geoplugin.net
 
 
@@ -36,3 +37,18 @@ JSON | geoplugin.net | http://www.geoplugin.net/json.gp?ip=xxx.xxx.xx.xxx | geop
 JSON | https://github.com/orhanayd/kandilli-rasathanesi-api| https://api.orhanaydogdu.com.tr/deprem/ | Turkey
 HTML | koeri.boun.edu.tr | http://www.koeri.boun.edu.tr/scripts/lst9.asp |  Turkey
 JSON | https://earthquake.usgs.gov/fdsnws/event/1/#parameters| https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2023-01-27&endtime=2023-01-28 |  World
+
+
+# 4-Domain / IP
+
+  | TYPE | SOURCE | URL | COMMENT | 
+|------------------------------|------------|----------------|----------------|
+JSON | api.domainsdb.info |  https://api.domainsdb.info/v1/domains/search?domain=mesuthoca.com | api.domainsdb.info
+
+
+
+# 5-OTHER
+
+  | TYPE | SOURCE | URL | COMMENT | 
+|------------------------------|------------|----------------|----------------|
+JSON | genderize.io |  https://api.genderize.io/?name=eren | Name gender detect
