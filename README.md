@@ -35,3 +35,4 @@ JSON | geoplugin.net | http://www.geoplugin.net/json.gp?ip=xxx.xxx.xx.xxx | geop
 |------------------------------|------------|----------------|----------------|
 JSON | https://github.com/orhanayd/kandilli-rasathanesi-api| https://api.orhanaydogdu.com.tr/deprem/ | Turkey
 HTML | koeri.boun.edu.tr | http://www.koeri.boun.edu.tr/scripts/lst9.asp |  Turkey
+JSON | https://earthquake.usgs.gov/fdsnws/event/1/#parameters| https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2023-01-27&endtime=2023-01-28 |  World
