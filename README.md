@@ -29,7 +29,6 @@ JSON | techniknews.net | https://api.techniknews.net/ipgeo/xxx.xx.xxx.xxx | tech
 TEXT | hackertarget.com | https://api.hackertarget.com/ipgeo/?q=xxx.xxx.xx.xxx | hackertarget.com
 JSON | geoplugin.net | http://www.geoplugin.net/json.gp?ip=xxx.xxx.xx.xxx | geoplugin.net
 
-
 # 3-Current Earthquake Data
 
   | TYPE | SOURCE | URL | COMMENT | 
@@ -46,12 +45,12 @@ JSON | https://earthquake.usgs.gov/fdsnws/event/1/#parameters| https://earthquak
 JSON | api.domainsdb.info |  https://api.domainsdb.info/v1/domains/search?domain=mesuthoca.com | api.domainsdb.info
 
 
-
 # 5-OTHER
 
   | TYPE | SOURCE | URL | COMMENT | 
 |------------------------------|------------|----------------|----------------|
-JSON | genderize.io |  https://api.genderize.io/?name=eren | Name gender detect
+JSON | genderize.io |  https://api.genderize.io/?name=eren | Name Gender Detect
+JSON | interactive-static.scmp.com | https://interactive-static.scmp.com/sheet/wuhan/viruscases.json | Coronavirus
 JSON | alquran.cloud |  https://alquran.cloud/api | Quran API
 JSON | https://randomuser.me/ |  https://randomuser.me/api | Random User
 IMAGE | qrtag.net |  https://www.qrtag.net/api/qr_12.svg?url=https://www.mesuthoca.com | Url to QR code
