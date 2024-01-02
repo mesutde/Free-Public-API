@@ -52,3 +52,6 @@ JSON | api.domainsdb.info |  https://api.domainsdb.info/v1/domains/search?domain
   | TYPE | SOURCE | URL | COMMENT | 
 |------------------------------|------------|----------------|----------------|
 JSON | genderize.io |  https://api.genderize.io/?name=eren | Name gender detect
+JSON | alquran.cloud |  https://alquran.cloud/api | Quran API
+JSON | https://randomuser.me/ |  https://randomuser.me/api | Random User
+IMAGE | qrtag.net |  https://www.qrtag.net/api/qr_12.svg?url=https://www.mesuthoca.com | Url to QR code
