@@ -45,7 +45,17 @@ JSON | https://earthquake.usgs.gov/fdsnws/event/1/#parameters| https://earthquak
 JSON | api.domainsdb.info |  https://api.domainsdb.info/v1/domains/search?domain=mesuthoca.com | api.domainsdb.info
 
 
-# 5-OTHER
+# 5-Currency Exchange 
+
+  | TYPE | SOURCE | URL | COMMENT | 
+|------------------------------|------------|----------------|----------------|
+XML | goldpara |  https://www.goldpara.com/xml/PiyasaKod26.xml | goldpara.com
+XML | goldpara |  https://www.goldpara.com/xml/PiyasaKod3.xml | goldpara.com
+JSON | exchange-rates.org |  https://www.exchange-rates.org/api/v2/rates/lookup?isoTo=TRY&isoFrom=USD&amount=1&pageCode=Home | exchange-rates.org
+JSON | https://www.cbr.ru/development/SXML/ |  https://www.cbr.ru/scripts/XML_daily.asp?date_req=01/01/2024| cbr.ru
+JSON | https://docs.awesomeapi.com.br/api-de-moedas |  https://economia.awesomeapi.com.br/json/last/USD-TRY | economia.awesomeapi.com.br
+
+# 6-OTHER
 
   | TYPE | SOURCE | URL | COMMENT | 
 |------------------------------|------------|----------------|----------------|
