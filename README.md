@@ -56,6 +56,7 @@ JSON | https://www.cbr.ru/development/SXML/ |  https://www.cbr.ru/scripts/XML_da
 JSON | https://docs.awesomeapi.com.br/api-de-moedas |  https://economia.awesomeapi.com.br/json/last/USD-TRY | economia.awesomeapi.com.br
 JSON | https://api.canlidoviz.com/ |  https://api.canlidoviz.com/items/current?marketId=0&code=USD&code=TRY | canlidoviz.com
 JSON | https://github.com/eraykisabacak/Doviz-API (Dolar,Altın,Gümüş,Borsa) |  https://doviz-api.onrender.com/api-docs | https://currency-and-crypto.vercel.app/ 
+JSON | https://github.com/berkocan/Doviz-Kurlari-Api-Json-Kodu |  https://api.genelpara.com/embed/para-birimleri.json | https://genelpara.com
 
 # 6-OTHER
 
