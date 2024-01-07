@@ -57,6 +57,7 @@ JSON | https://docs.awesomeapi.com.br/api-de-moedas |  https://economia.awesomea
 JSON | https://api.canlidoviz.com/ |  https://api.canlidoviz.com/items/current?marketId=0&code=USD&code=TRY | canlidoviz.com
 JSON | https://github.com/eraykisabacak/Doviz-API (Dolar,Altın,Gümüş,Borsa) |  https://doviz-api.onrender.com/api-docs | https://currency-and-crypto.vercel.app/ 
 JSON | https://github.com/berkocan/Doviz-Kurlari-Api-Json-Kodu |  https://api.genelpara.com/embed/para-birimleri.json | https://genelpara.com
+JSON | https://github.com/sgok/doviz-cli-tool |  https://api.sgok.dev/doviz/api.json | Dolar , Euro , Gram Altın , Bitcoin
 
 # 6-OTHER
 
