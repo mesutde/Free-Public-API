@@ -28,7 +28,7 @@ HTML | ifconfig.me | https://ifconfig.me/ | ifconfig.me
 JSON | techniknews.net | https://api.techniknews.net/ipgeo/xxx.xx.xxx.xxx | techniknews.net
 TEXT | hackertarget.com | https://api.hackertarget.com/ipgeo/?q=xxx.xxx.xx.xxx | hackertarget.com
 JSON | geoplugin.net | http://www.geoplugin.net/json.gp?ip=xxx.xxx.xx.xxx | geoplugin.net
-JSON | https://github.com/mesutde/Free-Public-API| https://vurl.com/7OOkw |  All Countries JSON
+
 
 # 3-Current Earthquake Data
 
@@ -64,6 +64,7 @@ JSON | https://github.com/sgok/doviz-cli-tool |  https://api.sgok.dev/doviz/api.
 
   | TYPE | SOURCE | URL | COMMENT | 
 |------------------------------|------------|----------------|----------------|
+JSON | https://github.com/mesutde/Free-Public-API| http://tinyurl.com/wmd42y8p |  All Countries JSON
 JSON | genderize.io |  https://api.genderize.io/?name=eren | Name Gender Detect
 JSON | interactive-static.scmp.com | https://interactive-static.scmp.com/sheet/wuhan/viruscases.json | Coronavirus
 JSON | alquran.cloud |  https://alquran.cloud/api | Quran API
