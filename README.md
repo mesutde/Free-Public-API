@@ -75,4 +75,3 @@ JSON |  https://telegra.ph / | https://telegra.ph/api | Free Telegram Note Share
 JSON |  https://themealdb.com/api.php | https://themealdb.com/api.php | Free Recipe API
 JSON | https://youtubemultidownloader.com | https://api.youtubemultidownloader.com/video?url=https://www.youtube.com/watch?v=LAYgZEMMWxo | Youtube Downloader
 JSON | https://ytinfo.vercel.app| https://ytinfo.vercel.app/get?video=https://www.youtube.com/watch?v=LAYgZEMMWxo&list=RDLAYgZEMMWxo&start_radio=1 | Youtube Downloader
-JSON | authorization  : apikey 0o892m5JYTzB1T8cIUrg3i:5ST8Z4jt42s7BFE1mXWF1W  | https://api.collectapi.com/health/dutyPharmacy?il=istanbul&ilce=kadıköy | Nöbetçi Eczane
