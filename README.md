@@ -59,6 +59,7 @@ JSON | https://api.canlidoviz.com/ |  https://api.canlidoviz.com/items/current?m
 JSON | https://github.com/eraykisabacak/Doviz-API (Dolar,Altın,Gümüş,Borsa) |  https://doviz-api.onrender.com/api-docs | https://currency-and-crypto.vercel.app/ 
 JSON | https://github.com/berkocan/Doviz-Kurlari-Api-Json-Kodu |  https://api.genelpara.com/embed/para-birimleri.json | https://genelpara.com
 JSON | https://github.com/sgok/doviz-cli-tool |  https://api.sgok.dev/doviz/api.json | Dolar , Euro , Gram Altın , Bitcoin
+NONE | https://ozbeyaltin.com.tr |  https://www.ozbeyaltin.com.tr/number.php?jsonp=jQuery18305598608013809918_1661784169400&_=1661784181782 | Dolar , Euro , Gram Altın 
 
 # 6-OTHER
 
@@ -74,3 +75,4 @@ JSON |  https://telegra.ph / | https://telegra.ph/api | Free Telegram Note Share
 JSON |  https://themealdb.com/api.php | https://themealdb.com/api.php | Free Recipe API
 JSON | https://youtubemultidownloader.com | https://api.youtubemultidownloader.com/video?url=https://www.youtube.com/watch?v=LAYgZEMMWxo | Youtube Downloader
 JSON | https://ytinfo.vercel.app| https://ytinfo.vercel.app/get?video=https://www.youtube.com/watch?v=LAYgZEMMWxo&list=RDLAYgZEMMWxo&start_radio=1 | Youtube Downloader
+JSON | authorization  : apikey 0o892m5JYTzB1T8cIUrg3i:5ST8Z4jt42s7BFE1mXWF1W  | https://api.collectapi.com/health/dutyPharmacy?il=istanbul&ilce=kadıköy | Nöbetçi Eczane
