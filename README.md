@@ -16,7 +16,12 @@ JSON | bylls.com| https://bylls.com/api/price?from_currency=BTC&to_currency=CAD 
 JSON | buda.com| https://www.buda.com/api/v2/markets/btc-clp/ticker| buda.com
 JSON | bitpay.com | https://bitpay.com/rates | bitpay.com
 JSON | bitbank.cc | https://public.bitbank.cc/tickers | bitbank.cc
-
+JSON | binance.com | https://api4.binance.com/api/v3/ticker/24hr | 24 hr crypto data	
+JSON | coincap.io | https://api.coincap.io/v2/assets | Real time cryptocurrency prices
+JSON | coindesk.co | https://api.coindesk.com/v1/bpi/currentprice.json | Bitcoin price index
+JSON | coinlore.net | https://api.coinlore.net/api/tickers/ | Cryptocurrency market data
+JSON | api.kucoin.com | https://api.kucoin.com/api/v1/market/stats?symbol=BTC-USDT | Crypto data	
+JSON | api.kucoin.com | https://api.kucoin.com/api/v1/market/stats?symbol=BTC-USDT | Crypto data	
 
 # 2-GeoLocate API
 
