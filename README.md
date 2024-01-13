@@ -24,6 +24,7 @@ JSON | bitbank.cc | https://public.bitbank.cc/tickers | bitbank.cc
 |------------------------------|------------|----------------|----------------|
 JSON | vatcomply.com| https://api.vatcomply.com/geolocate | vatcomply.com
 JSON | ipify.org | https://api.ipify.org/ |  Just IP
+JSON | ipinfo.io | https://ipinfo.io/xxx.xxx.xxx.xxx/geo | ipinfo.io
 HTML | ifconfig.me | https://ifconfig.me/ | ifconfig.me
 JSON | techniknews.net | https://api.techniknews.net/ipgeo/xxx.xx.xxx.xxx | techniknews.net
 TEXT | hackertarget.com | https://api.hackertarget.com/ipgeo/?q=xxx.xxx.xx.xxx | hackertarget.com
@@ -71,7 +72,9 @@ JSON | interactive-static.scmp.com | https://interactive-static.scmp.com/sheet/w
 JSON | alquran.cloud |  https://alquran.cloud/api | Quran API
 JSON | https://randomuser.me/ |  https://randomuser.me/api | Random User
 IMAGE | qrtag.net |  https://www.qrtag.net/api/qr_12.svg?url=https://www.mesuthoca.com | Url to QR code
-JSON |  https://telegra.ph / | https://telegra.ph/api | Free Telegram Note Share Api
-JSON |  https://themealdb.com/api.php | https://themealdb.com/api.php | Free Recipe API
+JSON | https://telegra.ph / | https://telegra.ph/api | Free Telegram Note Share Api
+JSON | https://themealdb.com/api.php | https://themealdb.com/api.php | Free Recipe API
 JSON | https://youtubemultidownloader.com | https://api.youtubemultidownloader.com/video?url=https://www.youtube.com/watch?v=LAYgZEMMWxo | Youtube Downloader
 JSON | https://ytinfo.vercel.app| https://ytinfo.vercel.app/get?video=https://www.youtube.com/watch?v=LAYgZEMMWxo&list=RDLAYgZEMMWxo&start_radio=1 | Youtube Downloader
+JSON | http://universities.hipolabs.com | http://universities.hipolabs.com/search?country=turkey | Univercity List
+JSON | zippopotam.us |  https://api.zippopotam.us/tr/34764 | Zip Code Detail
