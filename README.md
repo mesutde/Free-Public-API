@@ -21,7 +21,7 @@ JSON | coincap.io | https://api.coincap.io/v2/assets | Real time cryptocurrency 
 JSON | coindesk.co | https://api.coindesk.com/v1/bpi/currentprice.json | Bitcoin price index
 JSON | coinlore.net | https://api.coinlore.net/api/tickers/ | Cryptocurrency market data
 JSON | api.kucoin.com | https://api.kucoin.com/api/v1/market/stats?symbol=BTC-USDT | Crypto data	
-JSON | api.kucoin.com | https://api.kucoin.com/api/v1/market/stats?symbol=BTC-USDT | Crypto data	
+JSON | cryptocompare.com | https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD,EUR,CNY,JPY,TRY | cryptocompare.com
 
 # 2-GeoLocate API
 
