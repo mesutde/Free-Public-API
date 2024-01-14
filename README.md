@@ -34,6 +34,7 @@ HTML | ifconfig.me | https://ifconfig.me/ | ifconfig.me
 JSON | techniknews.net | https://api.techniknews.net/ipgeo/xxx.xx.xxx.xxx | techniknews.net
 TEXT | hackertarget.com | https://api.hackertarget.com/ipgeo/?q=xxx.xxx.xx.xxx | hackertarget.com
 JSON | geoplugin.net | http://www.geoplugin.net/json.gp?ip=xxx.xxx.xx.xxx | geoplugin.net
+JSON | freeipapi.com | https://freeipapi.com/api/json/xxx.xxx.xx.xxx | freeipapi.com
 JSON | ip2location.io | https://api.ip2location.io/ | ip2location
 
 
