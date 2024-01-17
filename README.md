@@ -36,6 +36,7 @@ TEXT | hackertarget.com | https://api.hackertarget.com/ipgeo/?q=xxx.xxx.xx.xxx |
 JSON | geoplugin.net | http://www.geoplugin.net/json.gp?ip=xxx.xxx.xx.xxx | geoplugin.net
 JSON | freeipapi.com | https://freeipapi.com/api/json/xxx.xxx.xx.xxx | freeipapi.com
 JSON | ip2location.io | https://api.ip2location.io/ | ip2location
+JSON | https://country.is | https://api.country.is/ | Just IP and Country Code
 
 
 # 3-Current Earthquake Data
