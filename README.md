@@ -15,6 +15,7 @@ JSON | coingecko.com| https://api.coingecko.com/api/v3/exchanges/list | coingeck
 JSON | bylls.com| https://bylls.com/api/price?from_currency=BTC&to_currency=CAD | bylls.com
 JSON | buda.com| https://www.buda.com/api/v2/markets/btc-clp/ticker| buda.com
 JSON | bitpay.com | https://bitpay.com/rates | bitpay.com
+JSON | coinlore.com | https://www.coinlore.com/cryptocurrency-data-api | coinlore.com
 JSON | bitbank.cc | https://public.bitbank.cc/tickers | bitbank.cc
 JSON | binance.com | https://api4.binance.com/api/v3/ticker/24hr | 24 hr crypto data	
 JSON | coincap.io | https://api.coincap.io/v2/assets | Real time cryptocurrency prices
@@ -36,6 +37,9 @@ TEXT | hackertarget.com | https://api.hackertarget.com/ipgeo/?q=xxx.xxx.xx.xxx |
 JSON | geoplugin.net | http://www.geoplugin.net/json.gp?ip=xxx.xxx.xx.xxx | geoplugin.net
 JSON | freeipapi.com | https://freeipapi.com/api/json/xxx.xxx.xx.xxx | freeipapi.com
 JSON | ip2location.io | https://api.ip2location.io/ | ip2location
+JSON | https://country.is | https://api.country.is/ | Just IP and Country Code
+JSON | https://api.myip.com | https://api.myip.com/ | Just IP and Country Code
+JSON | https://get.geojs.io | https://get.geojs.io/v1/ip/country.json | Just IP and Country Code
 JSON | https://country.is | https://api.country.is/ | Just IP and Country Code
 
 
@@ -77,6 +81,7 @@ NONE | https://ozbeyaltin.com.tr |  https://www.ozbeyaltin.com.tr/number.php?jso
 JSON | https://github.com/mesutde/Free-Public-API| http://tinyurl.com/wmd42y8p |  All Countries JSON
 JSON | genderize.io |  https://api.genderize.io/?name=eren | Name Gender Detect
 JSON | interactive-static.scmp.com | https://interactive-static.scmp.com/sheet/wuhan/viruscases.json | Coronavirus
+JSON | disease.sh | https://disease.sh/docs/#/ | Coronavirus
 JSON | alquran.cloud |  https://alquran.cloud/api | Quran API
 JSON | https://randomuser.me/ |  https://randomuser.me/api | Random User
 IMAGE | qrtag.net |  https://www.qrtag.net/api/qr_12.svg?url=https://www.mesuthoca.com | Url to QR code
