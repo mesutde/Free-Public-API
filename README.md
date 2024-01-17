@@ -85,3 +85,4 @@ JSON | https://youtubemultidownloader.com | https://api.youtubemultidownloader.c
 JSON | https://ytinfo.vercel.app| https://ytinfo.vercel.app/get?video=https://www.youtube.com/watch?v=LAYgZEMMWxo&list=RDLAYgZEMMWxo&start_radio=1 | Youtube Downloader
 JSON | http://universities.hipolabs.com | http://universities.hipolabs.com/search?country=turkey | Univercity List
 JSON | zippopotam.us |  https://api.zippopotam.us/tr/34764 | Zip Code Detail
+JSON | https://github.com/nager/Nager.Date |  https://date.nager.at/api/v3/PublicHolidays/2024/TR | https://date.nager.at/ Holiday Day Api 
