@@ -73,6 +73,8 @@ JSON | https://github.com/eraykisabacak/Doviz-API (Dolar,Altın,Gümüş,Borsa) 
 JSON | https://github.com/berkocan/Doviz-Kurlari-Api-Json-Kodu |  https://api.genelpara.com/embed/para-birimleri.json | https://genelpara.com
 JSON | https://github.com/sgok/doviz-cli-tool |  https://api.sgok.dev/doviz/api.json | Dolar , Euro , Gram Altın , Bitcoin
 NONE | https://ozbeyaltin.com.tr |  https://www.ozbeyaltin.com.tr/number.php?jsonp=jQuery18305598608013809918_1661784169400&_=1661784181782 | Dolar , Euro , Gram Altın 
+JSON | https://goldprice.org |  https://data-asg.goldprice.org/dbXRates/TRY | Altın Ons TL Fiyatı
+JSON | https://goldprice.org |  https://data-asg.goldprice.org/dbXRates/USD | Altın Ons USD Fiyatı
 
 # 6-OTHER
 
