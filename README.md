@@ -95,3 +95,4 @@ JSON | https://ytinfo.vercel.app| https://ytinfo.vercel.app/get?video=https://ww
 JSON | http://universities.hipolabs.com | http://universities.hipolabs.com/search?country=turkey | Univercity List
 JSON | zippopotam.us |  https://api.zippopotam.us/tr/34764 | Zip Code Detail
 JSON | https://github.com/nager/Nager.Date |  https://date.nager.at/api/v3/PublicHolidays/2024/TR | https://date.nager.at/ Holiday Day Api 
+JSON | https://github.com/keremciu/secim-veri-paylasimi |  https://raw.githubusercontent.com/keremciu/secim-veri-paylasimi/main/unique_school_list.json | Türkiye ilk ve Orta Öğretim Okulları
