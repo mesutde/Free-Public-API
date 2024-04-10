@@ -85,6 +85,7 @@ JSON | https://www.floatrates.com|  https://www.floatrates.com/daily/usd.json | 
 JSON | https://github.com/mesutde/Free-Public-API| http://tinyurl.com/wmd42y8p |  All Countries JSON
 JSON | genderize.io |  https://api.genderize.io/?name=eren | Name Gender Detect
 JSON | worldtimeapi.org |  https://worldtimeapi.org/api/timezone/Europe/Istanbul | current local time
+JSON | timeapi.io | https://www.timeapi.io/swagger/index.html | current local time
 JSON | interactive-static.scmp.com | https://interactive-static.scmp.com/sheet/wuhan/viruscases.json | Coronavirus
 JSON | disease.sh | https://disease.sh/docs/#/ | Coronavirus
 JSON | alquran.cloud |  https://alquran.cloud/api | Quran API
