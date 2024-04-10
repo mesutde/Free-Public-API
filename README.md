@@ -75,6 +75,8 @@ JSON | https://github.com/sgok/doviz-cli-tool |  https://api.sgok.dev/doviz/api.
 NONE | https://ozbeyaltin.com.tr |  https://www.ozbeyaltin.com.tr/number.php?jsonp=jQuery18305598608013809918_1661784169400&_=1661784181782 | Dolar , Euro , Gram Altın 
 JSON | https://goldprice.org |  https://data-asg.goldprice.org/dbXRates/TRY | Altın Ons TL Fiyatı
 JSON | https://goldprice.org |  https://data-asg.goldprice.org/dbXRates/USD | Altın Ons USD Fiyatı
+JSON | https://openexchangerates.org |  https://openexchangerates.org/api/currencies.json | ülke para kodları
+JSON | https://www.floatrates.com|  https://www.floatrates.com/daily/usd.json | para birim çevirileri
 
 # 6-OTHER
 
