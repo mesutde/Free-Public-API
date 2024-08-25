@@ -99,3 +99,4 @@ JSON | http://universities.hipolabs.com | http://universities.hipolabs.com/searc
 JSON | zippopotam.us |  https://api.zippopotam.us/tr/34764 | Zip Code Detail
 JSON | https://github.com/nager/Nager.Date |  https://date.nager.at/api/v3/PublicHolidays/2024/TR | https://date.nager.at/ Holiday Day Api 
 JSON | https://github.com/keremciu/secim-veri-paylasimi |  https://raw.githubusercontent.com/keremciu/secim-veri-paylasimi/main/unique_school_list.json | Türkiye ilk ve Orta Öğretim Okulları
+JSON | https://camgoz.net/swagger-ui/index.html |  https://camgoz.net/search | 14.000'ni aşkın ürünün anlık piyasa fiyatını ve diğer bilgilerini JSON modeli içinden ulaşabilirsin.
