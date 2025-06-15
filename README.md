@@ -77,6 +77,7 @@ JSON | https://goldprice.org |  https://data-asg.goldprice.org/dbXRates/TRY | Al
 JSON | https://goldprice.org |  https://data-asg.goldprice.org/dbXRates/USD | Altın Ons USD Fiyatı
 JSON | https://openexchangerates.org |  https://openexchangerates.org/api/currencies.json | ülke para kodları
 JSON | https://www.floatrates.com|  https://www.floatrates.com/daily/usd.json | para birim çevirileri
+JSON | https://goldapi.gramvey.com/golds | https://github.com/ahmetilhn/altin-fiyatlari-api | Altın TL Fiyatları
 
 # 6-OTHER
 
